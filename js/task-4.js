@@ -40,6 +40,8 @@ const clients = [
   },
 ];
 
+console.log('task-4.js');
+
 console.log(getTotalBalanceByGender(clients, 'male')); // 12053
 
 console.log(getTotalBalanceByGender(clients, 'female')); // 8863

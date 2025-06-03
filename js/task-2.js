@@ -33,6 +33,8 @@ const allUsers = [
   },
 ];
 
+console.log('task-2.js');
+
 console.log(getUsersWithFriend(allUsers, 'Briana Decker'));
 // [
 //   {
